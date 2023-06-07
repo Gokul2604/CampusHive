@@ -1,5 +1,7 @@
 # Campus-Hive-Client
 
+LINK: https://campus-hive-events.netlify.app/
+
 ## Login Credentials
 
 ```
